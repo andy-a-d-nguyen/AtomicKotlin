@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 159
+        length: 88
+        placeholder_text: TODO()
+        initial_state:
+          length: 76
+          offset: 154
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: l9Se60edz5/xOs+wZZHOGNQlIYtyiri+UHH3qemdY8txmAgun6MOxvh06h5TYWOtXt7DWmbr0d0yWFxBsu1tV+qxuyzTH8NfrCZemzBvQZw=
+    encrypted_text: dK5Ngj/ftfK2gdTs7fhYV9eUulfoLZOnl3Zcy3m058QN0NW6NXGvMX0/6eoOKvhV/VHJfcEUxZe3/BxKunWNdYNg0d3ZNdTPnVBr8WtF4/WhWQjO62vLH0H3HUMl8udunMSSR79wjL0ux4qbeZrTa9jAE2fZ0rVipGVAQVnbWQc1fPNQJ9jNhQwkaIJxVvEQGKBOlIMbF/j/BJnujmduo4ayEcpgcaWXcoKaTq6gtAPbOMb2A9nSHPUjgNzxW1R1Za0kKOumpmwmIlxk7ch1PfHcBbH58mYJNKtDlQWzkW0xtD2qpNBT0fxgaVHXYLelcpDXIg2HJAvEYoodmAQAwN3nXaPFmQE/3QfOw42vHnA=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: ALryjOD6QNNxnDaXDpP+P332afHboQ+cDhs/n0YVpBielxmXGbbU7lkliig6A2yuLHuB4PEWTLfTIFI0eeH6TwI8Sbv4+6u1fgfDkX851JSl4ztc7Ky3B3oyMcTlP2xg7ElYvWkmWtM4O/bNLfHnHoXIqwFNIscKrtN/O/PlgAIL7SvSUAg55e2Ps0xwRGdiy4JE8EM5u+fc7WCKTHwZthhnoN3fhRO//FljFUf2ApndNdyPOQa/tD5nMzu0bW7ROYiNs0ZWFY8FS6uNOePjhWyFB9IYo76MNNMSCBe5aHjrgy2Inu0JnUQB6hoYafYU+ZVOXzYCk1dWtrIbd+LJmT3ElsCqydFgInXlr+1NOBhNgdo7v3Mnn/kqTc01oq+hTg8Fqnxc+sDLdUYrWT4+SB2zXf4XdIvMb6wpHgELmQH9Oqr+n43Se46GYw/xx8gVv3RVys5JaB0+XK0Yp5NYGh+MFXYgL5EFIipRWBLY3dZ69S+gHBu8UjryWOreirbhzxDncDMKVpWQ5NJQlU2C+wI1YpSuMrtQNh27e70+XCnrIdCZpeaumdBdi0qaAXgPaU70PksYWRlYF7zWwq+gBg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 04 Jul 2022 23:23:01 UTC
+record: -1

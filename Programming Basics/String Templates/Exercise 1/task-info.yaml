@@ -1,0 +1,26 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: X6A1IyNFbsSFF9DUt4R4ESt2C3zPzkOPFjq/t9reFUr3WeMFHE3vw3kElU1Xur19
+    learner_created: false
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 203
+        length: 69
+        placeholder_text: TODO()
+        initial_state:
+          length: 67
+          offset: 197
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: DkCCN1taJCTI56AZBTiZBZZORkKq29FlA71IZncseT2f4bhnqPNrCJ8CX0eCN/qb/AJn+nXF/t78vN0nVkxcGXeP7m8l3oqmtmDgXiWI2vPBcCi6aDk6+1rOuX0H25Pp
+    encrypted_text: ziGQOjgkKm7dlGET51GACAedpdL1vHQ52BGxwOcmcWaDORgN+PQgi7K3JUTH0u/VcCLPRvF8z8dMhGa5R5Uok8eIjBtJJ2/vl0raBXhEAf03AjhzHVoq+nuYkblEG48MVLEWAtFoyMc+YceW8TJ+3MbY0olhuaNEgVAsOO4Oo+9sZFhS40rIRERS/1xGEUr87l1TKDB1MVecKwYVds6mjA3dga3LPlBUdvXodZ+xw21I/SnNn5wvfe49WuteRvw+ZuyowMAHgRlq/EDFHFcdhA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 18 Jun 2022 23:53:05 UTC
+record: -1

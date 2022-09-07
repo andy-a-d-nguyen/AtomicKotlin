@@ -1,0 +1,86 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 131
+        length: 48
+        placeholder_text: // TODO
+        initial_state:
+          length: 46
+          offset: 130
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: v3Ls/55yjHF2MO8wX7nC0rndit+Oq8+HsHNJjzOODqTkhH0cX56EEnXOO9/Efoybcbos/08ZJB/Z0rIBVv4I1g==
+      - offset: 207
+        length: 17
+        placeholder_text: '"TODO"'
+        initial_state:
+          length: 17
+          offset: 202
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: S91URtOzX3tsp1u0B3bS+N0xAljhQNfxf6Z+2rBog2w=
+      - offset: 258
+        length: 17
+        placeholder_text: TODO()
+        initial_state:
+          length: 17
+          offset: 251
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 67UfJMAkPIDuOmQMCvOTJhBQxlr4ZYfnYDQTwD3TGmY=
+      - offset: 279
+        length: 43
+        placeholder_text: class Failure
+        initial_state:
+          length: 43
+          offset: 272
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 768kjuRvDeFQYT4Lyihfxoukk8lFRCCD0Yuu6RuL1mDXpcFoYCmfxuERGGD9GOqo
+      - offset: 359
+        length: 37
+        placeholder_text: TODO()
+        initial_state:
+          length: 33
+          offset: 352
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 3V2PU45spW9rtNBLfze0faUTna8IL7hO3nH3kXo8CFj6I92VcpjbSvU1H4pIbxSd
+      - offset: 431
+        length: 35
+        placeholder_text: TODO()
+        initial_state:
+          length: 33
+          offset: 420
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: aORSdI6LCon0Xry1hK8SlDCy8MzIypGXj3nqJM53DpOrSoBA2zIs5Za2COWjgGCQ
+      - offset: 499
+        length: 33
+        placeholder_text: TODO()
+        initial_state:
+          length: 31
+          offset: 486
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: aORSdI6LCon0Xry1hK8SlHb5lloRYVqaGUrGtSoRiz8=
+    encrypted_text: flcxbsyk1y91JEz+QfXQsqx34WslXQyUWdUpFvvinxA1FTt1Dek8smNMoY7lRaZ18lNimIV+BTakq0ifuzzSLlr11IMBZRnuQ/nfBa6eUx+KIbPYMEO4ZuL0pTF7l5HcMblonjHrnjZbiBlu175qtWSDhpC0N/4opyivrjjjsiBK19E7LeKye1K/X5Rmn29AMJefESZ6iPY8oULOQKcaS0j/NyxST/tFUGoxQnVHXEQLVApQAq39KgIaZjYJdBBLz+TK1Enqi1HXhVGoFLUBqTjPyIUMTWLyT3rjy57mUMOtomYug84vmd3b0UvRYV4kT8+dhG1qghimiT3HIHwbT6OK4pPCyxFddW8/54zMPatYMWXxHi6iqZ3crfzMQLGtyxmAf14YYWfc2KRP4NxBdjyuhNIFFZuTo+7scKyE7iYdaqOCjl8ZHXShppxQMHBv2iErGmp5eZAJ4ogC8eqGzORhdtAq+So/e99vV/lgo0dGmldVP3eYG1nyAUDtUV8XoF8ALcKEq5gZIMLUql3rbYsgvr9sUzkj2ULCT1rL9BOg6Y7WLuM8hZjENqqM3k1hOKbI99ucFKBqUhni6YQ9rEbhkztJvTCKg747XG1N7cQjClfDKsN2hafmdZMLwYSLD7vDnEnLUWSUWS/oHDCHsJNvjKoPhrLpCyHSsytEY+9nmDryDegqyyZd0a4GVqJlivWW34DoBCsMQ/+jnCUOxgh+9P5GuTOfgNGBDqYHXyI=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: PElr2Url3K1GbsdqsF6TqjaPylX91oZbDZhC+RmCClZM74VKm77i5/uDD0WrASG89v17q81yUVNOhJZd3tVJPNdKCUkYeigHBXdFnSr587yJNKHosUSxhJVC/t2joY9VwGe89yIiYwIYU0MRJryG3UyjsIiF1zmly3MonF4LvKUPq48KD/+5klqXJlNe+eAsrPwLMYctbWAF6GYpE72t5AfPjIxZabtC26Os/tCPiI9ggsuKlmCTAV9qz4cfzynR
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 04 Sep 2022 03:11:08 UTC
+record: -1

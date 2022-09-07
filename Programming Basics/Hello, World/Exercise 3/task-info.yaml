@@ -1,0 +1,28 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: vCWGpH5YJO5rf2OEsmpgSQ==
+    learner_created: false
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 40
+        placeholder_text: |-
+          println("Hello,")
+            println("Kotlin!")
+        initial_state:
+          length: 38
+          offset: 69
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: qDXRIskLetSSUoj/gkBc5Idd8HpqEY3Y7lMI99wP1JwIkC1GfHssxCBRTfV9VyKN
+    encrypted_text: WzMLgow9eqOQ1CEhzmhZ7Kc0OKP4Lr/D+wVLm0NUvI3iT0p5kuh1KPGuy+iQ+SIcsIbMJL3x8ZsjvWrH0z73FQ8ljDh/nYcqr879ALecJ3cmlUGlBYvbzHJTp9QfqIL44YGwq21Uh0gytAv3ZtG0hg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 18 Jun 2022 23:14:53 UTC
+record: -1

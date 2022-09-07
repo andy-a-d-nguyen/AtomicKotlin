@@ -1,0 +1,15 @@
+type: theory
+files:
+  - name: src/EmptyProgram.kt
+    visible: true
+    encrypted_text: ooYx0PH1qIKZbiNOKygb84RLgYpoPtjL8zmsmbYrSNiEQ/wPYefgoZJkO8DFjlv5hGt2uZX9fGDQbeJcc5gyUgyOj2crbvjaZLcADLmNJ4E=
+    learner_created: false
+  - name: src/HelloWorld.kt
+    visible: true
+    encrypted_text: /OymcGg7LGdtLNDBC+pIJmiSo2/M6itd/rvRj+aLXCUBYP6JA+UZqU4r/Nkw6BS0gkUqlBN59n4nGZfzXBmMIcKng9GGY9DYR4vZrqlmxXVe5QQvAA+0+i8MYTx3htYhOyCf5qjyak2XKEXbUZHtAQ==
+    learner_created: false
+status: Solved
+feedback:
+  time: Sat, 18 Jun 2022 23:08:49 UTC
+record: -1
+post_submission_on_open: true

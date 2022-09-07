@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 52
+        length: 52
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 52
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: APwPHmksQgbex2LHpEKuIqrIVVsWFVBRPA3qSmqLVRASPCtWSS5H5Ka07JiZPGLl
+    encrypted_text: WzMLgow9eqOQ1CEhzmhZ7F5W0efaT9Y1MOnJ9WV2UI7SJrj0Rvln7i7flzR4M7WsApc/pDPckOudaY5Pt9GiTQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: FL7WT0gXnGozH4Unwg9McbinlHM3V3DBqOMKUBf/u4njv5kwNxge8akSMSqmnU2fqv33ZVLMsuxdQWRLTJNEpo7DPZHpU7+OOtRFL8ZbLkQFVQ6SgcrMAyhH8710VTJ+e+1Zp3GvnensCq0EilE9XCBMGLhQV9/7YG3NOyhXHtUOtS3RZfTNW6/LtvE0rkuxDijvLkRDmsTiQGOhbggdBJ3Zht7O5SAxI87A4LDdFVuoRlcz8rzAvh9Srh6XJvufJRdN2j88cn5qW9FeFhjqsI35aArSOa6UJ3CntHG5O+4Z5nxORYviRa1a5QEfeU4F93B+WjjIrnkRB/VIku5oxkW1z358Ob+Xy6lbiE2sEaLDIwdC/7fvbb8Uq7z7VS5zAtoMmRAcBmAdcha2/S/vCosR4bXw86bR3HuzLtUkdhRre8onuphcj0Ox6c0lhO8p0BMjP7KttaYuCHhsvHdtU03L+i0AFillqGAJLeLSj4Q=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 18 Jun 2022 23:10:50 UTC
+record: -1

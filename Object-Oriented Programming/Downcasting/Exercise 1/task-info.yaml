@@ -1,0 +1,66 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 158
+        length: 37
+        placeholder_text: '{ TODO() }'
+        initial_state:
+          length: 25
+          offset: 153
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: moPSUmpnBdMUgiur+q9LVYYZmJY2gEys5yWjq3tF42w=
+      - offset: 209
+        length: 37
+        placeholder_text: '{ TODO() }'
+        initial_state:
+          length: 25
+          offset: 189
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: moPSUmpnBdMUgiur+q9LVQlzU5a9S5sy6SHX6Tm7z8g=
+      - offset: 295
+        length: 37
+        placeholder_text: '{ TODO() }'
+        initial_state:
+          length: 25
+          offset: 261
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: moPSUmpnBdMUgiur+q9LVcvRHhJ1zxCFSeGkNh/D3RU=
+      - offset: 346
+        length: 37
+        placeholder_text: '{ TODO() }'
+        initial_state:
+          length: 25
+          offset: 297
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: moPSUmpnBdMUgiur+q9LVdogQEVg0A0vm4p4iOhieqA=
+      - offset: 417
+        length: 86
+        placeholder_text: TODO()
+        initial_state:
+          length: 71
+          offset: 356
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 7SbJ/maiLBFEY5SYtDZgVwviL3iFT/qL3Ir+tfoA7sWgyxCX+3QiY9ifkhjIT5Jm+74O132B1T8MzZPONByJzzcaMuQcVJXHvNgjZswpU/uJAhPOiqPBg4Z2UhcG2tRP
+    encrypted_text: oKkRfPfoPVftKDhIePEJhmAxIxK2itImnHDEQBqOQoA/g329CkyMXBOciYAifbQvcYVV7tsuDx4PZ5fYRaOT9tRDZ1yAju0gQo4RZOqumYOxfVxDGGLPBucT0IX1SsMxbNSuGzodH5yX0P6UrkTGyUaTIInxLDZ9jnVUHP8eUkRXLDuZomWXt9BiC/wYheCep8k8L/iDx9cnDr86XZ5jnke8RM5iru28ZNKHGt0s+xAhAf6ECQLUHFJHnyv39SBtQ8Ry5G+oAu9ES9GDwddyU0tw/Nr/Jr6d98Hp0Jij4LHfetEVcJqr6SaWGQ8W9w+OziG5uo9kWJqDGZ2o37/FniDEI4oBhwMEys+RWwnYtugwhJyEtFoDJka8/lqeOHcqYAcC5bxQUJHul6iOFSUllbuWOrdEqD8TbYuyOjhQNwGlKKeVobCWfWpnXkJTeJhcy0yFIxqSjmZqFgjxbdBZt+ef6ogZIbrDeXIh4V5xH/8oTOH293RZyHhSW0swW6DVBypxBhxvQSm9JxC4Rb/VCzBn6Zf8cZLQDo0osgownwRc/CsELAlSZtvRt0zxFYpmhjkM1mZ3bnfL9/MFVJtvv1dRj0ZDL+w19CFn6OSAIs8zAtm06s11Au6lp7LV+jHfFzZWnvnrBd10sB7Tn2uYaQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: kqk+QnZoAI6zCypLFggAeMsHKulsAV5F9fXw6Gr20YSTuBALkD0dTknUB+26QhO0u9RxiK0OEDJABEJCqzm+VDYCo+4GRcI90K7uLcSXID6P4fW5QhxufqlEsign0aRBr9tykKEx459DkOjwTZZ6HSGr9H4yW2mzAEjFSIcaQ37TJ97WbRuliM67AmZLtnNzARiniwuy/MGCBpSvZebnsGxtbWYV8dD2bEovM83KbGgT49yWntNbVNoN2rDQv4GN
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 19 Jul 2022 14:07:55 UTC
+record: -1

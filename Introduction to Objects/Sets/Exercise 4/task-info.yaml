@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: HQC+qv+xGazv41WhaBOPiph4Z0eNnVNnbKSuRpH4wsLFvh8Qv1a6JXpJ2fQ/fSsgz6lV/HNVcUATBk7CFY11H/dTjg5wgiOBl8rz2bi+5Hwip5fAmZU/fsMQEbJUOeNoV8sDohqOGu1dT4RJmIvBeg==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: L7FY68KyYvw12CXGNl3bFxJcMgeynTkn/1CTyAfCfhY=
+    learner_created: false
+status: Solved
+feedback:
+  time: Tue, 21 Jun 2022 03:11:59 UTC
+record: -1
